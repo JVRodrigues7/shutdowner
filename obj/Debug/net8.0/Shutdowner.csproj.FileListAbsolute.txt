@@ -1,0 +1,14 @@
+D:\Compartilhada\Web\shutdowner\Shutdowner\bin\Debug\net8.0\Shutdowner.exe
+D:\Compartilhada\Web\shutdowner\Shutdowner\bin\Debug\net8.0\Shutdowner.deps.json
+D:\Compartilhada\Web\shutdowner\Shutdowner\bin\Debug\net8.0\Shutdowner.runtimeconfig.json
+D:\Compartilhada\Web\shutdowner\Shutdowner\bin\Debug\net8.0\Shutdowner.dll
+D:\Compartilhada\Web\shutdowner\Shutdowner\bin\Debug\net8.0\Shutdowner.pdb
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.AssemblyInfoInputs.cache
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.AssemblyInfo.cs
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.csproj.CoreCompileInputs.cache
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.dll
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\refint\Shutdowner.dll
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.pdb
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\Shutdowner.genruntimeconfig.cache
+D:\Compartilhada\Web\shutdowner\Shutdowner\obj\Debug\net8.0\ref\Shutdowner.dll
