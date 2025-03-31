@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Compartilhada\\Web\\shutdowner\\Shutdowner\\Shutdowner.csproj": {}
+    "D:\\Projetos\\Shutdowner\\Shutdowner.csproj": {}
   },
   "projects": {
-    "D:\\Compartilhada\\Web\\shutdowner\\Shutdowner\\Shutdowner.csproj": {
+    "D:\\Projetos\\Shutdowner\\Shutdowner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Compartilhada\\Web\\shutdowner\\Shutdowner\\Shutdowner.csproj",
+        "projectUniqueName": "D:\\Projetos\\Shutdowner\\Shutdowner.csproj",
         "projectName": "Shutdowner",
-        "projectPath": "D:\\Compartilhada\\Web\\shutdowner\\Shutdowner\\Shutdowner.csproj",
+        "projectPath": "D:\\Projetos\\Shutdowner\\Shutdowner.csproj",
         "packagesPath": "C:\\Users\\joao-\\.nuget\\packages\\",
-        "outputPath": "D:\\Compartilhada\\Web\\shutdowner\\Shutdowner\\obj\\",
+        "outputPath": "D:\\Projetos\\Shutdowner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joao-\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

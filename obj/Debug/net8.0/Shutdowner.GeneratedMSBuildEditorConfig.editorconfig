@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shutdowner
-build_property.ProjectDir = D:\Compartilhada\Web\shutdowner\Shutdowner\
+build_property.ProjectDir = D:\Projetos\Shutdowner\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

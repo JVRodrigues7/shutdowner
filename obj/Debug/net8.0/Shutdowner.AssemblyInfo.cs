@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shutdowner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c60eccde792dc2edec71922119cbb79a71e12178")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shutdowner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shutdowner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

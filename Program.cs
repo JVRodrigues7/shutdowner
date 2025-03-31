@@ -267,7 +267,7 @@ class Program {
 
   static void DrawTimeMenu() {
     DrawTitle();
-    Console.WriteLine("Select and option:");
+    Console.WriteLine("Select an option:");
     Console.WriteLine();
     Console.WriteLine(String.Concat("1 - ", dateTimes[1].ToShortTimeString()));
     Console.WriteLine(String.Concat("2 - ", dateTimes[2].ToShortTimeString()));
